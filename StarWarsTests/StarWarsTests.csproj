@@ -29,9 +29,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="TestData\firstepisodespecies - Copy.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Update="TestData\firstepisodespecies.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
