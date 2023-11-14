@@ -1,0 +1,239 @@
+{
+  "previous": "https://swapi.dev/api/species/?page=1",
+  "next": "https://swapi.dev/api/species/?page=3",
+  "previousPageNo": null,
+  "nextPageNo": null,
+  "count": 37,
+  "results": [
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/18/",
+      "eye_colors": "red, pink",
+      "skin_colors": "grey, green",
+      "url": "https://swapi.dev/api/species/11/",
+      "created": "2014-12-19T17:07:31.319000Z",
+      "edited": "2014-12-20T21:36:42.160000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/4/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/33/"
+      ],
+      "classification": "unknown",
+      "name": "Neimodian",
+      "designation": "sentient",
+      "average_height": "180",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/8/",
+      "eye_colors": "orange",
+      "skin_colors": "brown, green",
+      "url": "https://swapi.dev/api/species/12/",
+      "created": "2014-12-19T17:30:37.341000Z",
+      "edited": "2014-12-20T21:36:42.163000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/4/",
+        "https://swapi.dev/api/films/5/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/36/",
+        "https://swapi.dev/api/people/37/",
+        "https://swapi.dev/api/people/38/"
+      ],
+      "classification": "amphibian",
+      "name": "Gungan",
+      "designation": "sentient",
+      "average_height": "190",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/34/",
+      "eye_colors": "yellow",
+      "skin_colors": "blue, green, grey",
+      "url": "https://swapi.dev/api/species/13/",
+      "created": "2014-12-19T17:48:56.893000Z",
+      "edited": "2014-12-20T21:36:42.165000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/4/",
+        "https://swapi.dev/api/films/5/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/40/"
+      ],
+      "classification": "mammal",
+      "name": "Toydarian",
+      "designation": "sentient",
+      "average_height": "120",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/35/",
+      "eye_colors": "yellow, blue",
+      "skin_colors": "brown, purple, grey, red",
+      "url": "https://swapi.dev/api/species/14/",
+      "created": "2014-12-19T17:53:11.214000Z",
+      "edited": "2014-12-20T21:36:42.167000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/4/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/41/"
+      ],
+      "classification": "mammal",
+      "name": "Dug",
+      "designation": "sentient",
+      "average_height": "100",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/37/",
+      "eye_colors": "blue, brown, orange, pink",
+      "skin_colors": "orange, yellow, blue, green, pink, purple, tan",
+      "url": "https://swapi.dev/api/species/15/",
+      "created": "2014-12-20T09:48:02.406000Z",
+      "edited": "2014-12-20T21:36:42.169000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/3/",
+        "https://swapi.dev/api/films/4/",
+        "https://swapi.dev/api/films/5/",
+        "https://swapi.dev/api/films/6/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/45/",
+        "https://swapi.dev/api/people/46/"
+      ],
+      "classification": "mammals",
+      "name": "Twi'lek",
+      "designation": "sentient",
+      "average_height": "200",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/38/",
+      "eye_colors": "unknown",
+      "skin_colors": "blue, gray",
+      "url": "https://swapi.dev/api/species/16/",
+      "created": "2014-12-20T09:53:16.481000Z",
+      "edited": "2014-12-20T21:36:42.171000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/4/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/47/"
+      ],
+      "classification": "reptile",
+      "name": "Aleena",
+      "designation": "sentient",
+      "average_height": "80",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/39/",
+      "eye_colors": "yellow",
+      "skin_colors": "grey",
+      "url": "https://swapi.dev/api/species/17/",
+      "created": "2014-12-20T09:57:33.128000Z",
+      "edited": "2014-12-20T21:36:42.173000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/4/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/48/"
+      ],
+      "classification": "unknown",
+      "name": "Vulptereen",
+      "designation": "sentient",
+      "average_height": "100",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/40/",
+      "eye_colors": "black",
+      "skin_colors": "grey, yellow, purple",
+      "url": "https://swapi.dev/api/species/18/",
+      "created": "2014-12-20T10:02:13.915000Z",
+      "edited": "2014-12-20T21:36:42.175000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/4/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/49/"
+      ],
+      "classification": "unknown",
+      "name": "Xexto",
+      "designation": "sentient",
+      "average_height": "125",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/41/",
+      "eye_colors": "orange",
+      "skin_colors": "grey, green, yellow",
+      "url": "https://swapi.dev/api/species/19/",
+      "created": "2014-12-20T10:08:36.795000Z",
+      "edited": "2014-12-20T21:36:42.177000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/4/",
+        "https://swapi.dev/api/films/6/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/50/"
+      ],
+      "classification": "unknown",
+      "name": "Toong",
+      "designation": "sentient",
+      "average_height": "200",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/43/",
+      "eye_colors": "hazel",
+      "skin_colors": "pale pink",
+      "url": "https://swapi.dev/api/species/20/",
+      "created": "2014-12-20T10:15:33.765000Z",
+      "edited": "2014-12-20T21:36:42.179000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/4/",
+        "https://swapi.dev/api/films/6/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/52/"
+      ],
+      "classification": "mammal",
+      "name": "Cerean",
+      "designation": "sentient",
+      "average_height": "200",
+      "average_lifespane": null,
+      "hair_colors": "red, blond, black, white"
+    }
+  ]
+}

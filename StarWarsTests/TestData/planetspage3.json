@@ -1,0 +1,190 @@
+{
+  "previous": "https://swapi.dev/api/planets/?page=3",
+  "next": "https://swapi.dev/api/planets/?page=5",
+  "previousPageNo": null,
+  "nextPageNo": null,
+  "count": 60,
+  "results": [
+    {
+      "residents": [
+        "https://swapi.dev/api/people/27/"
+      ],
+      "films": [],
+      "rotation_period": "21",
+      "url": "https://swapi.dev/api/planets/31/",
+      "gravity": "1",
+      "terrain": "oceans, reefs, islands",
+      "climate": "temperate",
+      "diameter": "11030",
+      "created": "2014-12-18T11:07:01.792000Z",
+      "name": "Mon Cala",
+      "surface_water": "100",
+      "population": "27000000000",
+      "orbital_period": "398",
+      "edited": "2014-12-20T20:58:18.471000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/28/"
+      ],
+      "films": [],
+      "rotation_period": "20",
+      "url": "https://swapi.dev/api/planets/32/",
+      "gravity": "1",
+      "terrain": "plains, forests",
+      "climate": "temperate",
+      "diameter": "13500",
+      "created": "2014-12-18T11:11:51.872000Z",
+      "name": "Chandrila",
+      "surface_water": "40",
+      "population": "1200000000",
+      "orbital_period": "368",
+      "edited": "2014-12-20T20:58:18.472000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/31/"
+      ],
+      "films": [],
+      "rotation_period": "20",
+      "url": "https://swapi.dev/api/planets/33/",
+      "gravity": "1",
+      "terrain": "mountains, volcanoes, rocky deserts",
+      "climate": "superheated",
+      "diameter": "12780",
+      "created": "2014-12-18T11:25:40.243000Z",
+      "name": "Sullust",
+      "surface_water": "5",
+      "population": "18500000000",
+      "orbital_period": "263",
+      "edited": "2014-12-20T20:58:18.474000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/40/"
+      ],
+      "films": [],
+      "rotation_period": "21",
+      "url": "https://swapi.dev/api/planets/34/",
+      "gravity": "1",
+      "terrain": "swamps, lakes",
+      "climate": "temperate",
+      "diameter": "7900",
+      "created": "2014-12-19T17:47:54.403000Z",
+      "name": "Toydaria",
+      "surface_water": "unknown",
+      "population": "11000000",
+      "orbital_period": "184",
+      "edited": "2014-12-20T20:58:18.476000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/41/"
+      ],
+      "films": [],
+      "rotation_period": "26",
+      "url": "https://swapi.dev/api/planets/35/",
+      "gravity": "1.56",
+      "terrain": "swamps, deserts, jungles, mountains",
+      "climate": "arid, temperate, tropical",
+      "diameter": "18880",
+      "created": "2014-12-19T17:52:13.106000Z",
+      "name": "Malastare",
+      "surface_water": "unknown",
+      "population": "2000000000",
+      "orbital_period": "201",
+      "edited": "2014-12-20T20:58:18.478000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/44/"
+      ],
+      "films": [],
+      "rotation_period": "24",
+      "url": "https://swapi.dev/api/planets/36/",
+      "gravity": "0.9",
+      "terrain": "forests, deserts, savannas",
+      "climate": "temperate",
+      "diameter": "10480",
+      "created": "2014-12-19T18:00:40.142000Z",
+      "name": "Dathomir",
+      "surface_water": "unknown",
+      "population": "5200",
+      "orbital_period": "491",
+      "edited": "2014-12-20T20:58:18.480000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/45/",
+        "https://swapi.dev/api/people/46/"
+      ],
+      "films": [],
+      "rotation_period": "30",
+      "url": "https://swapi.dev/api/planets/37/",
+      "gravity": "1",
+      "terrain": "mountains, valleys, deserts, tundra",
+      "climate": "temperate, arid, subartic",
+      "diameter": "10600",
+      "created": "2014-12-20T09:46:25.740000Z",
+      "name": "Ryloth",
+      "surface_water": "5",
+      "population": "1500000000",
+      "orbital_period": "305",
+      "edited": "2014-12-20T20:58:18.481000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/47/"
+      ],
+      "films": [],
+      "rotation_period": "unknown",
+      "url": "https://swapi.dev/api/planets/38/",
+      "gravity": "unknown",
+      "terrain": "unknown",
+      "climate": "unknown",
+      "diameter": "unknown",
+      "created": "2014-12-20T09:52:23.452000Z",
+      "name": "Aleen Minor",
+      "surface_water": "unknown",
+      "population": "unknown",
+      "orbital_period": "unknown",
+      "edited": "2014-12-20T20:58:18.483000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/48/"
+      ],
+      "films": [],
+      "rotation_period": "22",
+      "url": "https://swapi.dev/api/planets/39/",
+      "gravity": "1",
+      "terrain": "urban, barren",
+      "climate": "temperate, artic",
+      "diameter": "14900",
+      "created": "2014-12-20T09:56:58.874000Z",
+      "name": "Vulpter",
+      "surface_water": "unknown",
+      "population": "421000000",
+      "orbital_period": "391",
+      "edited": "2014-12-20T20:58:18.485000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/49/"
+      ],
+      "films": [],
+      "rotation_period": "unknown",
+      "url": "https://swapi.dev/api/planets/40/",
+      "gravity": "unknown",
+      "terrain": "desert, tundra, rainforests, mountains",
+      "climate": "unknown",
+      "diameter": "unknown",
+      "created": "2014-12-20T10:01:37.395000Z",
+      "name": "Troiken",
+      "surface_water": "unknown",
+      "population": "unknown",
+      "orbital_period": "unknown",
+      "edited": "2014-12-20T20:58:18.487000Z"
+    }
+  ]
+}

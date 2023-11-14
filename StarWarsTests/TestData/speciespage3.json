@@ -1,0 +1,167 @@
+{
+  "previous": "https://swapi.dev/api/species/?page=3",
+  "next": null,
+  "previousPageNo": null,
+  "nextPageNo": null,
+  "count": 37,
+  "results": [
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/55/",
+      "eye_colors": "yellow",
+      "skin_colors": "brown",
+      "url": "https://swapi.dev/api/species/31/",
+      "created": "2014-12-20T17:28:28.821000Z",
+      "edited": "2014-12-20T21:36:42.200000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/5/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/71/"
+      ],
+      "classification": "amphibian",
+      "name": "Besalisk",
+      "designation": "sentient",
+      "average_height": "178",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/10/",
+      "eye_colors": "black",
+      "skin_colors": "grey, blue",
+      "url": "https://swapi.dev/api/species/32/",
+      "created": "2014-12-20T17:31:24.838000Z",
+      "edited": "2014-12-20T21:36:42.202000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/5/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/72/",
+        "https://swapi.dev/api/people/73/"
+      ],
+      "classification": "amphibian",
+      "name": "Kaminoan",
+      "designation": "sentient",
+      "average_height": "220",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/56/",
+      "eye_colors": "unknown",
+      "skin_colors": "grey, green",
+      "url": "https://swapi.dev/api/species/33/",
+      "created": "2014-12-20T17:53:54.515000Z",
+      "edited": "2014-12-20T21:36:42.204000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/5/",
+        "https://swapi.dev/api/films/6/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/76/"
+      ],
+      "classification": "mammal",
+      "name": "Skakoan",
+      "designation": "sentient",
+      "average_height": "unknown",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/57/",
+      "eye_colors": "black",
+      "skin_colors": "grey, white",
+      "url": "https://swapi.dev/api/species/34/",
+      "created": "2014-12-20T17:58:19.088000Z",
+      "edited": "2014-12-20T21:36:42.207000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/5/",
+        "https://swapi.dev/api/films/6/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/77/"
+      ],
+      "classification": "mammal",
+      "name": "Muun",
+      "designation": "sentient",
+      "average_height": "190",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/58/",
+      "eye_colors": "red, orange, yellow, green, blue, black",
+      "skin_colors": "red, white, orange, yellow, green, blue",
+      "url": "https://swapi.dev/api/species/35/",
+      "created": "2014-12-20T18:44:03.246000Z",
+      "edited": "2014-12-20T21:36:42.209000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/5/",
+        "https://swapi.dev/api/films/6/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/78/"
+      ],
+      "classification": "mammal",
+      "name": "Togruta",
+      "designation": "sentient",
+      "average_height": "180",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/59/",
+      "eye_colors": "yellow",
+      "skin_colors": "brown, orange, tan",
+      "url": "https://swapi.dev/api/species/36/",
+      "created": "2014-12-20T19:45:42.537000Z",
+      "edited": "2014-12-20T21:36:42.210000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/6/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/79/"
+      ],
+      "classification": "reptile",
+      "name": "Kaleesh",
+      "designation": "sentient",
+      "average_height": "170",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/12/",
+      "eye_colors": "black",
+      "skin_colors": "grey",
+      "url": "https://swapi.dev/api/species/37/",
+      "created": "2014-12-20T20:35:06.777000Z",
+      "edited": "2014-12-20T21:36:42.212000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/6/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/83/"
+      ],
+      "classification": "mammal",
+      "name": "Pau'an",
+      "designation": "sentient",
+      "average_height": "190",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    }
+  ]
+}

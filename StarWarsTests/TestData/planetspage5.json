@@ -1,0 +1,190 @@
+{
+  "previous": "https://swapi.dev/api/planets/?page=5",
+  "next": null,
+  "previousPageNo": null,
+  "nextPageNo": null,
+  "count": 60,
+  "results": [
+    {
+      "residents": [
+        "https://swapi.dev/api/people/64/",
+        "https://swapi.dev/api/people/65/"
+      ],
+      "films": [],
+      "rotation_period": "unknown",
+      "url": "https://swapi.dev/api/planets/51/",
+      "gravity": "unknown",
+      "terrain": "deserts",
+      "climate": "unknown",
+      "diameter": "unknown",
+      "created": "2014-12-20T16:44:46.318000Z",
+      "name": "Mirial",
+      "surface_water": "unknown",
+      "population": "unknown",
+      "orbital_period": "unknown",
+      "edited": "2014-12-20T20:58:18.508000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/67/"
+      ],
+      "films": [],
+      "rotation_period": "unknown",
+      "url": "https://swapi.dev/api/planets/52/",
+      "gravity": "unknown",
+      "terrain": "rainforests, rivers, mountains",
+      "climate": "unknown",
+      "diameter": "unknown",
+      "created": "2014-12-20T16:52:13.357000Z",
+      "name": "Serenno",
+      "surface_water": "unknown",
+      "population": "unknown",
+      "orbital_period": "unknown",
+      "edited": "2014-12-20T20:58:18.510000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/69/"
+      ],
+      "films": [],
+      "rotation_period": "unknown",
+      "url": "https://swapi.dev/api/planets/53/",
+      "gravity": "unknown",
+      "terrain": "jungles, forests, deserts",
+      "climate": "unknown",
+      "diameter": "unknown",
+      "created": "2014-12-20T16:54:39.909000Z",
+      "name": "Concord Dawn",
+      "surface_water": "unknown",
+      "population": "unknown",
+      "orbital_period": "unknown",
+      "edited": "2014-12-20T20:58:18.512000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/70/"
+      ],
+      "films": [],
+      "rotation_period": "unknown",
+      "url": "https://swapi.dev/api/planets/54/",
+      "gravity": "unknown",
+      "terrain": "unknown",
+      "climate": "unknown",
+      "diameter": "unknown",
+      "created": "2014-12-20T16:56:37.250000Z",
+      "name": "Zolan",
+      "surface_water": "unknown",
+      "population": "unknown",
+      "orbital_period": "unknown",
+      "edited": "2014-12-20T20:58:18.514000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/71/"
+      ],
+      "films": [],
+      "rotation_period": "unknown",
+      "url": "https://swapi.dev/api/planets/55/",
+      "gravity": "unknown",
+      "terrain": "oceans, glaciers",
+      "climate": "frigid",
+      "diameter": "unknown",
+      "created": "2014-12-20T17:27:41.286000Z",
+      "name": "Ojom",
+      "surface_water": "100",
+      "population": "500000000",
+      "orbital_period": "unknown",
+      "edited": "2014-12-20T20:58:18.516000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/76/"
+      ],
+      "films": [],
+      "rotation_period": "27",
+      "url": "https://swapi.dev/api/planets/56/",
+      "gravity": "1",
+      "terrain": "urban, vines",
+      "climate": "temperate",
+      "diameter": "unknown",
+      "created": "2014-12-20T17:50:47.864000Z",
+      "name": "Skako",
+      "surface_water": "unknown",
+      "population": "500000000000",
+      "orbital_period": "384",
+      "edited": "2014-12-20T20:58:18.517000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/77/"
+      ],
+      "films": [],
+      "rotation_period": "28",
+      "url": "https://swapi.dev/api/planets/57/",
+      "gravity": "1",
+      "terrain": "plains, forests, hills, mountains",
+      "climate": "temperate",
+      "diameter": "13800",
+      "created": "2014-12-20T17:57:47.420000Z",
+      "name": "Muunilinst",
+      "surface_water": "25",
+      "population": "5000000000",
+      "orbital_period": "412",
+      "edited": "2014-12-20T20:58:18.519000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/78/"
+      ],
+      "films": [],
+      "rotation_period": "unknown",
+      "url": "https://swapi.dev/api/planets/58/",
+      "gravity": "1",
+      "terrain": "cities, savannahs, seas, plains",
+      "climate": "temperate",
+      "diameter": "unknown",
+      "created": "2014-12-20T18:43:14.049000Z",
+      "name": "Shili",
+      "surface_water": "unknown",
+      "population": "unknown",
+      "orbital_period": "unknown",
+      "edited": "2014-12-20T20:58:18.521000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/79/"
+      ],
+      "films": [],
+      "rotation_period": "23",
+      "url": "https://swapi.dev/api/planets/59/",
+      "gravity": "1",
+      "terrain": "rainforests, cliffs, canyons, seas",
+      "climate": "arid, temperate, tropical",
+      "diameter": "13850",
+      "created": "2014-12-20T19:43:51.278000Z",
+      "name": "Kalee",
+      "surface_water": "unknown",
+      "population": "4000000000",
+      "orbital_period": "378",
+      "edited": "2014-12-20T20:58:18.523000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/82/"
+      ],
+      "films": [],
+      "rotation_period": "unknown",
+      "url": "https://swapi.dev/api/planets/60/",
+      "gravity": "unknown",
+      "terrain": "unknown",
+      "climate": "unknown",
+      "diameter": "unknown",
+      "created": "2014-12-20T20:18:36.256000Z",
+      "name": "Umbara",
+      "surface_water": "unknown",
+      "population": "unknown",
+      "orbital_period": "unknown",
+      "edited": "2014-12-20T20:58:18.525000Z"
+    }
+  ]
+}

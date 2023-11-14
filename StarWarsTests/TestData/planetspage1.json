@@ -1,0 +1,198 @@
+{
+  "previous": "https://swapi.dev/api/planets/?page=1",
+  "next": "https://swapi.dev/api/planets/?page=3",
+  "previousPageNo": null,
+  "nextPageNo": null,
+  "count": 60,
+  "results": [
+    {
+      "residents": [
+        "https://swapi.dev/api/people/63/"
+      ],
+      "films": [
+        "https://swapi.dev/api/films/5/"
+      ],
+      "rotation_period": "30",
+      "url": "https://swapi.dev/api/planets/11/",
+      "gravity": "0.9 standard",
+      "terrain": "rock, desert, mountain, barren",
+      "climate": "temperate, arid",
+      "diameter": "11370",
+      "created": "2014-12-10T12:47:22.350000Z",
+      "name": "Geonosis",
+      "surface_water": "5",
+      "population": "100000000000",
+      "orbital_period": "256",
+      "edited": "2014-12-20T20:58:18.437000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/83/"
+      ],
+      "films": [
+        "https://swapi.dev/api/films/6/"
+      ],
+      "rotation_period": "27",
+      "url": "https://swapi.dev/api/planets/12/",
+      "gravity": "1 standard",
+      "terrain": "scrublands, savanna, canyons, sinkholes",
+      "climate": "temperate, arid, windy",
+      "diameter": "12900",
+      "created": "2014-12-10T12:49:01.491000Z",
+      "name": "Utapau",
+      "surface_water": "0.9",
+      "population": "95000000",
+      "orbital_period": "351",
+      "edited": "2014-12-20T20:58:18.439000Z"
+    },
+    {
+      "residents": [],
+      "films": [
+        "https://swapi.dev/api/films/6/"
+      ],
+      "rotation_period": "36",
+      "url": "https://swapi.dev/api/planets/13/",
+      "gravity": "1 standard",
+      "terrain": "volcanoes, lava rivers, mountains, caves",
+      "climate": "hot",
+      "diameter": "4200",
+      "created": "2014-12-10T12:50:16.526000Z",
+      "name": "Mustafar",
+      "surface_water": "0",
+      "population": "20000",
+      "orbital_period": "412",
+      "edited": "2014-12-20T20:58:18.440000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/13/",
+        "https://swapi.dev/api/people/80/"
+      ],
+      "films": [
+        "https://swapi.dev/api/films/6/"
+      ],
+      "rotation_period": "26",
+      "url": "https://swapi.dev/api/planets/14/",
+      "gravity": "1 standard",
+      "terrain": "jungle, forests, lakes, rivers",
+      "climate": "tropical",
+      "diameter": "12765",
+      "created": "2014-12-10T13:32:00.124000Z",
+      "name": "Kashyyyk",
+      "surface_water": "60",
+      "population": "45000000",
+      "orbital_period": "381",
+      "edited": "2014-12-20T20:58:18.442000Z"
+    },
+    {
+      "residents": [],
+      "films": [
+        "https://swapi.dev/api/films/6/"
+      ],
+      "rotation_period": "24",
+      "url": "https://swapi.dev/api/planets/15/",
+      "gravity": "0.56 standard",
+      "terrain": "airless asteroid",
+      "climate": "artificial temperate ",
+      "diameter": "0",
+      "created": "2014-12-10T13:33:46.405000Z",
+      "name": "Polis Massa",
+      "surface_water": "0",
+      "population": "1000000",
+      "orbital_period": "590",
+      "edited": "2014-12-20T20:58:18.444000Z"
+    },
+    {
+      "residents": [],
+      "films": [
+        "https://swapi.dev/api/films/6/"
+      ],
+      "rotation_period": "12",
+      "url": "https://swapi.dev/api/planets/16/",
+      "gravity": "1 standard",
+      "terrain": "glaciers, mountains, ice canyons",
+      "climate": "frigid",
+      "diameter": "10088",
+      "created": "2014-12-10T13:43:39.139000Z",
+      "name": "Mygeeto",
+      "surface_water": "unknown",
+      "population": "19000000",
+      "orbital_period": "167",
+      "edited": "2014-12-20T20:58:18.446000Z"
+    },
+    {
+      "residents": [],
+      "films": [
+        "https://swapi.dev/api/films/6/"
+      ],
+      "rotation_period": "34",
+      "url": "https://swapi.dev/api/planets/17/",
+      "gravity": "0.75 standard",
+      "terrain": "fungus forests",
+      "climate": "hot, humid",
+      "diameter": "9100",
+      "created": "2014-12-10T13:44:50.397000Z",
+      "name": "Felucia",
+      "surface_water": "unknown",
+      "population": "8500000",
+      "orbital_period": "231",
+      "edited": "2014-12-20T20:58:18.447000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/33/"
+      ],
+      "films": [
+        "https://swapi.dev/api/films/6/"
+      ],
+      "rotation_period": "25",
+      "url": "https://swapi.dev/api/planets/18/",
+      "gravity": "1 standard",
+      "terrain": "mountains, fields, forests, rock arches",
+      "climate": "temperate, moist",
+      "diameter": "0",
+      "created": "2014-12-10T13:46:28.704000Z",
+      "name": "Cato Neimoidia",
+      "surface_water": "unknown",
+      "population": "10000000",
+      "orbital_period": "278",
+      "edited": "2014-12-20T20:58:18.449000Z"
+    },
+    {
+      "residents": [],
+      "films": [
+        "https://swapi.dev/api/films/6/"
+      ],
+      "rotation_period": "26",
+      "url": "https://swapi.dev/api/planets/19/",
+      "gravity": "unknown",
+      "terrain": "caves, desert, mountains, volcanoes",
+      "climate": "hot",
+      "diameter": "14920",
+      "created": "2014-12-10T13:47:46.874000Z",
+      "name": "Saleucami",
+      "surface_water": "unknown",
+      "population": "1400000000",
+      "orbital_period": "392",
+      "edited": "2014-12-20T20:58:18.450000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/10/"
+      ],
+      "films": [],
+      "rotation_period": "unknown",
+      "url": "https://swapi.dev/api/planets/20/",
+      "gravity": "1 standard",
+      "terrain": "grass",
+      "climate": "temperate",
+      "diameter": "0",
+      "created": "2014-12-10T16:16:26.566000Z",
+      "name": "Stewjon",
+      "surface_water": "unknown",
+      "population": "unknown",
+      "orbital_period": "unknown",
+      "edited": "2014-12-20T20:58:18.452000Z"
+    }
+  ]
+}

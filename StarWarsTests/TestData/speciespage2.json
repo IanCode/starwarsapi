@@ -1,0 +1,239 @@
+{
+  "previous": "https://swapi.dev/api/species/?page=2",
+  "next": "https://swapi.dev/api/species/?page=4",
+  "previousPageNo": null,
+  "nextPageNo": null,
+  "count": 37,
+  "results": [
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/44/",
+      "eye_colors": "black",
+      "skin_colors": "green, blue, brown, red",
+      "url": "https://swapi.dev/api/species/21/",
+      "created": "2014-12-20T10:18:58.610000Z",
+      "edited": "2014-12-20T21:36:42.181000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/4/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/53/"
+      ],
+      "classification": "amphibian",
+      "name": "Nautolan",
+      "designation": "sentient",
+      "average_height": "180",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/45/",
+      "eye_colors": "brown, orange",
+      "skin_colors": "pale, brown, red, orange, yellow",
+      "url": "https://swapi.dev/api/species/22/",
+      "created": "2014-12-20T10:26:59.894000Z",
+      "edited": "2014-12-20T21:36:42.183000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/4/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/44/",
+        "https://swapi.dev/api/people/54/"
+      ],
+      "classification": "mammal",
+      "name": "Zabrak",
+      "designation": "sentient",
+      "average_height": "180",
+      "average_lifespane": null,
+      "hair_colors": "black"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/46/",
+      "eye_colors": "blue, indigo",
+      "skin_colors": "dark",
+      "url": "https://swapi.dev/api/species/23/",
+      "created": "2014-12-20T10:29:13.798000Z",
+      "edited": "2014-12-20T21:36:42.186000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/4/",
+        "https://swapi.dev/api/films/6/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/55/"
+      ],
+      "classification": "mammal",
+      "name": "Tholothian",
+      "designation": "sentient",
+      "average_height": "unknown",
+      "average_lifespane": null,
+      "hair_colors": "unknown"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/47/",
+      "eye_colors": "orange",
+      "skin_colors": "pink",
+      "url": "https://swapi.dev/api/species/24/",
+      "created": "2014-12-20T10:32:13.046000Z",
+      "edited": "2014-12-20T21:36:42.188000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/4/",
+        "https://swapi.dev/api/films/6/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/56/"
+      ],
+      "classification": "unknown",
+      "name": "Iktotchi",
+      "designation": "sentient",
+      "average_height": "180",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/48/",
+      "eye_colors": "yellow",
+      "skin_colors": "white",
+      "url": "https://swapi.dev/api/species/25/",
+      "created": "2014-12-20T10:34:50.827000Z",
+      "edited": "2014-12-20T21:36:42.189000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/4/",
+        "https://swapi.dev/api/films/6/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/57/"
+      ],
+      "classification": "mammal",
+      "name": "Quermian",
+      "designation": "sentient",
+      "average_height": "240",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/49/",
+      "eye_colors": "black, silver",
+      "skin_colors": "peach, orange, red",
+      "url": "https://swapi.dev/api/species/26/",
+      "created": "2014-12-20T10:49:21.692000Z",
+      "edited": "2014-12-20T21:36:42.191000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/4/",
+        "https://swapi.dev/api/films/6/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/58/"
+      ],
+      "classification": "unknown",
+      "name": "Kel Dor",
+      "designation": "sentient",
+      "average_height": "180",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/50/",
+      "eye_colors": "blue",
+      "skin_colors": "blue",
+      "url": "https://swapi.dev/api/species/27/",
+      "created": "2014-12-20T10:53:28.795000Z",
+      "edited": "2014-12-20T21:36:42.193000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/4/",
+        "https://swapi.dev/api/films/6/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/59/"
+      ],
+      "classification": "amphibian",
+      "name": "Chagrian",
+      "designation": "sentient",
+      "average_height": "190",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/11/",
+      "eye_colors": "green, hazel",
+      "skin_colors": "green, brown",
+      "url": "https://swapi.dev/api/species/28/",
+      "created": "2014-12-20T16:40:45.618000Z",
+      "edited": "2014-12-20T21:36:42.195000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/5/",
+        "https://swapi.dev/api/films/6/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/63/"
+      ],
+      "classification": "insectoid",
+      "name": "Geonosian",
+      "designation": "sentient",
+      "average_height": "178",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/51/",
+      "eye_colors": "blue, green, red, yellow, brown, orange",
+      "skin_colors": "yellow, green",
+      "url": "https://swapi.dev/api/species/29/",
+      "created": "2014-12-20T16:46:48.290000Z",
+      "edited": "2014-12-20T21:36:42.197000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/5/",
+        "https://swapi.dev/api/films/6/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/64/",
+        "https://swapi.dev/api/people/65/"
+      ],
+      "classification": "mammal",
+      "name": "Mirialan",
+      "designation": "sentient",
+      "average_height": "180",
+      "average_lifespane": null,
+      "hair_colors": "black, brown"
+    },
+    {
+      "vehicles": null,
+      "homeworld": "https://swapi.dev/api/planets/54/",
+      "eye_colors": "yellow",
+      "skin_colors": "green, yellow",
+      "url": "https://swapi.dev/api/species/30/",
+      "created": "2014-12-20T16:57:46.171000Z",
+      "edited": "2014-12-20T21:36:42.199000Z",
+      "starships": null,
+      "films": [
+        "https://swapi.dev/api/films/5/",
+        "https://swapi.dev/api/films/6/"
+      ],
+      "people": [
+        "https://swapi.dev/api/people/70/"
+      ],
+      "classification": "reptilian",
+      "name": "Clawdite",
+      "designation": "sentient",
+      "average_height": "180",
+      "average_lifespane": null,
+      "hair_colors": "none"
+    }
+  ]
+}

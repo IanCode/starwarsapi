@@ -1,0 +1,27 @@
+{
+    "vehicles": [
+        "https://swapi.dev/api/vehicles/14/",
+        "https://swapi.dev/api/vehicles/30/"
+    ],
+    "gender": "male",
+    "url": "https://swapi.dev/api/people/1/",
+    "height": "172",
+    "hair_color": "blond",
+    "skin_color": "fair",
+    "starships": [
+        "https://swapi.dev/api/starships/12/",
+        "https://swapi.dev/api/starships/22/"
+    ],
+    "name": "Luke Skywalker",
+    "films": [
+        "https://swapi.dev/api/films/1/",
+        "https://swapi.dev/api/films/2/",
+        "https://swapi.dev/api/films/3/",
+        "https://swapi.dev/api/films/6/"
+    ],
+    "birth_year": "19BBY",
+    "homeworld": "https://swapi.dev/api/planets/1/",
+    "species": [],
+    "eye_color": "blue",
+    "mass": "77"
+}

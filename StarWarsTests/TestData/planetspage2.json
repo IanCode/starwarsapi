@@ -1,0 +1,192 @@
+{
+  "previous": "https://swapi.dev/api/planets/?page=2",
+  "next": "https://swapi.dev/api/planets/?page=4",
+  "previousPageNo": null,
+  "nextPageNo": null,
+  "count": 60,
+  "results": [
+    {
+      "residents": [
+        "https://swapi.dev/api/people/12/"
+      ],
+      "films": [],
+      "rotation_period": "24",
+      "url": "https://swapi.dev/api/planets/21/",
+      "gravity": "1 standard",
+      "terrain": "cityscape",
+      "climate": "polluted",
+      "diameter": "13490",
+      "created": "2014-12-10T16:26:54.384000Z",
+      "name": "Eriadu",
+      "surface_water": "unknown",
+      "population": "22000000000",
+      "orbital_period": "360",
+      "edited": "2014-12-20T20:58:18.454000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/14/",
+        "https://swapi.dev/api/people/18/"
+      ],
+      "films": [],
+      "rotation_period": "25",
+      "url": "https://swapi.dev/api/planets/22/",
+      "gravity": "1 standard",
+      "terrain": "plains, urban, hills, forests",
+      "climate": "temperate",
+      "diameter": "11000",
+      "created": "2014-12-10T16:49:12.453000Z",
+      "name": "Corellia",
+      "surface_water": "70",
+      "population": "3000000000",
+      "orbital_period": "329",
+      "edited": "2014-12-20T20:58:18.456000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/15/"
+      ],
+      "films": [],
+      "rotation_period": "29",
+      "url": "https://swapi.dev/api/planets/23/",
+      "gravity": "1 standard",
+      "terrain": "jungles, oceans, urban, swamps",
+      "climate": "hot",
+      "diameter": "7549",
+      "created": "2014-12-10T17:03:28.110000Z",
+      "name": "Rodia",
+      "surface_water": "60",
+      "population": "1300000000",
+      "orbital_period": "305",
+      "edited": "2014-12-20T20:58:18.458000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/16/"
+      ],
+      "films": [],
+      "rotation_period": "87",
+      "url": "https://swapi.dev/api/planets/24/",
+      "gravity": "1 standard",
+      "terrain": "urban, oceans, swamps, bogs",
+      "climate": "temperate",
+      "diameter": "12150",
+      "created": "2014-12-10T17:11:29.452000Z",
+      "name": "Nal Hutta",
+      "surface_water": "unknown",
+      "population": "7000000000",
+      "orbital_period": "413",
+      "edited": "2014-12-20T20:58:18.460000Z"
+    },
+    {
+      "residents": [],
+      "films": [],
+      "rotation_period": "25",
+      "url": "https://swapi.dev/api/planets/25/",
+      "gravity": "1 standard",
+      "terrain": "oceans, savannas, mountains, grasslands",
+      "climate": "temperate",
+      "diameter": "9830",
+      "created": "2014-12-10T17:23:29.896000Z",
+      "name": "Dantooine",
+      "surface_water": "unknown",
+      "population": "1000",
+      "orbital_period": "378",
+      "edited": "2014-12-20T20:58:18.461000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/19/"
+      ],
+      "films": [],
+      "rotation_period": "26",
+      "url": "https://swapi.dev/api/planets/26/",
+      "gravity": "unknown",
+      "terrain": "rocky islands, oceans",
+      "climate": "temperate",
+      "diameter": "6400",
+      "created": "2014-12-12T11:16:55.078000Z",
+      "name": "Bestine IV",
+      "surface_water": "98",
+      "population": "62000000",
+      "orbital_period": "680",
+      "edited": "2014-12-20T20:58:18.463000Z"
+    },
+    {
+      "residents": [],
+      "films": [
+        "https://swapi.dev/api/films/2/"
+      ],
+      "rotation_period": "26",
+      "url": "https://swapi.dev/api/planets/27/",
+      "gravity": "1 standard",
+      "terrain": "plains, seas, mesas",
+      "climate": "temperate",
+      "diameter": "14050",
+      "created": "2014-12-15T12:23:41.661000Z",
+      "name": "Ord Mantell",
+      "surface_water": "10",
+      "population": "4000000000",
+      "orbital_period": "334",
+      "edited": "2014-12-20T20:58:18.464000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/20/",
+        "https://swapi.dev/api/people/23/",
+        "https://swapi.dev/api/people/29/",
+        "https://swapi.dev/api/people/32/",
+        "https://swapi.dev/api/people/75/"
+      ],
+      "films": [],
+      "rotation_period": "0",
+      "url": "https://swapi.dev/api/planets/28/",
+      "gravity": "unknown",
+      "terrain": "unknown",
+      "climate": "unknown",
+      "diameter": "0",
+      "created": "2014-12-15T12:25:59.569000Z",
+      "name": "unknown",
+      "surface_water": "unknown",
+      "population": "unknown",
+      "orbital_period": "0",
+      "edited": "2014-12-20T20:58:18.466000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/24/"
+      ],
+      "films": [],
+      "rotation_period": "25",
+      "url": "https://swapi.dev/api/planets/29/",
+      "gravity": "0.62 standard",
+      "terrain": "mountains, seas, grasslands, deserts",
+      "climate": "arid",
+      "diameter": "0",
+      "created": "2014-12-15T12:53:47.695000Z",
+      "name": "Trandosha",
+      "surface_water": "unknown",
+      "population": "42000000",
+      "orbital_period": "371",
+      "edited": "2014-12-20T20:58:18.468000Z"
+    },
+    {
+      "residents": [
+        "https://swapi.dev/api/people/25/"
+      ],
+      "films": [],
+      "rotation_period": "20",
+      "url": "https://swapi.dev/api/planets/30/",
+      "gravity": "1 standard",
+      "terrain": "deserts, mountains",
+      "climate": "arid",
+      "diameter": "0",
+      "created": "2014-12-15T12:56:31.121000Z",
+      "name": "Socorro",
+      "surface_water": "unknown",
+      "population": "300000000",
+      "orbital_period": "326",
+      "edited": "2014-12-20T20:58:18.469000Z"
+    }
+  ]
+}
