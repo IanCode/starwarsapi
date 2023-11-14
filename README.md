@@ -1,4 +1,4 @@
-# SharpTrooper
+# Star Wars Api
 
 This project queries the [Star Wars API](https://swapi.dev/) and retrieves a few pieces of information.
 
