@@ -53,8 +53,8 @@ namespace StarWarsTests
             // some extra serialization to ensure string equality.
             var starShip12 = JsonConvert.DeserializeObject<Starship>(expectedStarShip12Json);
             var starShip22 = JsonConvert.DeserializeObject<Starship>(expectedStarShip22Json);
-            Assert.Equal(JsonConvert.SerializeObject(value[0]), JsonConvert.SerializeObject(starShip12));
-            Assert.Equal(JsonConvert.SerializeObject(value[1]), JsonConvert.SerializeObject(starShip22));
+            Assert.Equal(JsonConvert.SerializeObject(starShip12), JsonConvert.SerializeObject(value[0]));
+            Assert.Equal(JsonConvert.SerializeObject(starShip22), JsonConvert.SerializeObject(value[1]));
         }
 
         [Fact]
@@ -81,7 +81,7 @@ namespace StarWarsTests
 
             // some extra serialization to ensure string equality.
             var species = JsonConvert.DeserializeObject<List<string>>(firstEpisodeSpeciesJson);
-            Assert.Equal(JsonConvert.SerializeObject(value), JsonConvert.SerializeObject(species));
+            Assert.Equal(JsonConvert.SerializeObject(species), JsonConvert.SerializeObject(value));
         }
 
         [Fact]
